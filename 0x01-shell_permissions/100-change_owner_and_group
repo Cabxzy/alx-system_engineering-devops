@@ -1,2 +1,2 @@
 #!/bin/bash
-chowh vincent:staff
+chowh vincent:staff *
